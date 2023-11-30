@@ -9,7 +9,6 @@ setup(
     install_requires=[
         'angr',
         'shellphish-qemu',
-        'git+https://github.com/Zwnny/shellphish-afl.git@master#egg=shellphish-afl',
         'tqdm'
     ]
 )
